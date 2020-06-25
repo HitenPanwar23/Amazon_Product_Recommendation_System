@@ -1,6 +1,6 @@
 # Problem STatement
 
-Building a product recommendation system for the e-commerce website like Amazon etc.
+Building a product recommendation system for an online e-commerce website like Amazon etc.
 
 # Amazon_Product_Recommendation_System
 
