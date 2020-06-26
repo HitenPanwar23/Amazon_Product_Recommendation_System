@@ -1,4 +1,4 @@
-# Problem STatement
+# Problem Statement
 
 Building a product recommendation system for an online e-commerce website like Amazon etc.
 
