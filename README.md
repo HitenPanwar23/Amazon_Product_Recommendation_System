@@ -11,7 +11,7 @@ Collaborative Filtering recommendation model: It matches each of the user’s pu
 
 # Conclusion
 
-Recommendation model provides a type of personalized shopping experience for each customer. For retailers like Amazon, a good recommendation algorithm is required. In our project we analysed the fine food items dataset and trained our model. We split the data randomly into train data and test data into 80:20 ratio i.e. 80% train data and 20% test data. Then we used collaborative filtering model based on matrix factorization and popularity based recommendation model.
+Recommendation model provides a type of personalized shopping experience for each customer. For retailers like Amazon, a good recommendation algorithm is required. In our project we analysed the fine food items dataset and trained our model. We split the data randomly into train data and test data into 80:20 ratio i.e. 80% train data and 20% test data. Then we use collaborative filtering model based on matrix factorization and popularity based recommendation model.
 
 # DataSet
 
